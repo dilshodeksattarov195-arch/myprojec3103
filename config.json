@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercarse",
+        "uuid": 30524211,
+        "checksum": "zicfyk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
